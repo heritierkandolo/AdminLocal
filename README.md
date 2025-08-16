@@ -2,7 +2,7 @@
 
 Ce projet propose une démonstration concrète de la mise en place de **LAPS**, **Just-In-Time (JIT)** et **Just-Enough Administration (JEA)** dans un environnement Active Directory, afin de supprimer les droits administrateurs locaux permanents.
 
-🎥 **Démo vidéo disponible ici** → [![Voir la démo sur YouTube]([[https://img.youtube.com/vi/0poeTq2TZt0/0.jpg)]([https://youtube.com/watch?v=0poeTq2TZt0](https://www.youtube.com/watch?v=OpoeTq2TZt0)](https://www.youtube.com/watch?v=OpoeTq2TZt0)](https://youtu.be/OpoeTq2TZt0))
+🎥 **Démo vidéo disponible ici** → [![Voir la démo sur YouTube]<iframe width="875" height="492" src="https://www.youtube.com/embed/OpoeTq2TZt0" title="Zéro Admin Local Permanent : JEA, LAPS, JIT avec PowerShell – AD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## 📌 Objectif
