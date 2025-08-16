@@ -2,7 +2,7 @@
 
 Ce projet propose une démonstration concrète de la mise en place de **LAPS**, **Just-In-Time (JIT)** et **Just-Enough Administration (JEA)** dans un environnement Active Directory, afin de supprimer les droits administrateurs locaux permanents.
 
-🎥 **Démo vidéo disponible ici** → [![Voir la démo sur YouTube](https://youtu.be/OpoeTq2TZt0)
+🎥 [![Voir le tuto sur YouTube](https://img.youtube.com/vi/OpoeTq2TZt0/0.jpg)](https://youtu.be/OpoeTq2TZt0)
 
 
 ## 📌 Objectif
